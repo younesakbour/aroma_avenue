@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aroma_avenue/static/css/main.1c731b37.css",
+    "main.js": "/aroma_avenue/static/js/main.d19948af.js",
+    "static/media/keyboard.mp4": "/aroma_avenue/static/media/keyboard.76083148f912f044a2bb.mp4",
+    "static/media/coffee.png": "/aroma_avenue/static/media/coffee.fa692b39bcf25e60f176.png",
+    "static/media/hero.jpg": "/aroma_avenue/static/media/hero.4e8bd7dc80e1168e360b.jpg",
+    "static/media/person4.jpg": "/aroma_avenue/static/media/person4.b69069af4ec9b28bc9eb.jpg",
+    "static/media/person3.jpg": "/aroma_avenue/static/media/person3.80b4e54c79603392ec4b.jpg",
+    "static/media/person1.jpg": "/aroma_avenue/static/media/person1.f0f8db6aec843ece5362.jpg",
+    "static/media/person5.jpg": "/aroma_avenue/static/media/person5.22279902b4b1ac2cf16c.jpg",
+    "static/media/person2.jpg": "/aroma_avenue/static/media/person2.222cbc25ec6a63cb5e60.jpg",
+    "static/media/brand.jpg": "/aroma_avenue/static/media/brand.9301310cd2f546b6a584.jpg",
+    "index.html": "/aroma_avenue/index.html",
+    "main.1c731b37.css.map": "/aroma_avenue/static/css/main.1c731b37.css.map",
+    "main.d19948af.js.map": "/aroma_avenue/static/js/main.d19948af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c731b37.css",
+    "static/js/main.d19948af.js"
+  ]
+}
