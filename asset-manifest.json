@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/aroma_avenue/static/css/main.1c731b37.css",
-    "main.js": "/aroma_avenue/static/js/main.d19948af.js",
+    "main.css": "/aroma_avenue/static/css/main.7a647d8e.css",
+    "main.js": "/aroma_avenue/static/js/main.de96563c.js",
     "static/media/keyboard.mp4": "/aroma_avenue/static/media/keyboard.76083148f912f044a2bb.mp4",
     "static/media/coffee.png": "/aroma_avenue/static/media/coffee.fa692b39bcf25e60f176.png",
     "static/media/hero.jpg": "/aroma_avenue/static/media/hero.4e8bd7dc80e1168e360b.jpg",
@@ -12,11 +12,11 @@
     "static/media/person2.jpg": "/aroma_avenue/static/media/person2.222cbc25ec6a63cb5e60.jpg",
     "static/media/brand.jpg": "/aroma_avenue/static/media/brand.9301310cd2f546b6a584.jpg",
     "index.html": "/aroma_avenue/index.html",
-    "main.1c731b37.css.map": "/aroma_avenue/static/css/main.1c731b37.css.map",
-    "main.d19948af.js.map": "/aroma_avenue/static/js/main.d19948af.js.map"
+    "main.7a647d8e.css.map": "/aroma_avenue/static/css/main.7a647d8e.css.map",
+    "main.de96563c.js.map": "/aroma_avenue/static/js/main.de96563c.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c731b37.css",
-    "static/js/main.d19948af.js"
+    "static/css/main.7a647d8e.css",
+    "static/js/main.de96563c.js"
   ]
 }
